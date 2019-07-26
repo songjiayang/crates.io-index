@@ -1,4 +1,4 @@
 {
-  "dl": "http://127.0.0.1:8888/api/v1/crates",
+  "dl": "https://epn-sjy.s3.cn-north-1.jdcloud-oss.com/api/v1/crates",
   "api": "http://127.0.0.1:8888"
 }
